@@ -1,0 +1,31 @@
+** Important Udemy Cources -
+1) Master Git and GitHub in 5 Days: Go from Zero to Hero
+		- Jose Portilla, Pierian Training
+2) Basic to Advanced: Retreival-Augmented Generation (RAG)
+		- Yash Thakker
+3) LangChain with Python Bootcamp
+		- Jose Portilla, Pierian Training
+4) Learn Hugging Face Bootcamp		
+		- Jose Portilla, Pierian Training
+5) 7 Days of GitHub Copilot: The GitHub Copilot Masterclass
+		- Henry Habib, The Intelligent Worker
+6) FastAPI - The Complete Course 2025 (Beginner + Advanced)
+		- Eric Roby, Chad Darby
+7) Azure Databricks & Spark For Data Engineers:Hands-on Project
+		- Ramesh Retnasamy
+8) Azure Data Factory For Data Engineers - Project on Covid19
+		- Ramesh Retnasamy		
+		
+** YouTube
+1) Tarun Jain
+2) Pradip Nichite
+3) Yash Thakker
+4) Visual Studio Code
+5) 
+
+** Other Resources
+1) LangChain Academy
+2) Azure
+	- Azure Data Factory
+	- Azure Databricks
+3) Databricks Academy 
