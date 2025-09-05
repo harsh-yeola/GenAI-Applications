@@ -1,0 +1,21 @@
+emp_id,issue_description
+11234,"Associate mistakenly credited INR 50,000 twice into a customer’s savings account. The duplication was flagged by the reconciliation team during daily account matching. A reversal request has been initiated."
+11567,"Employee entered wrong IFSC code while processing NEFT of INR 12,800, leading to transaction rejection. Customer complaint registered and refund processed the same day."
+11982,"Associate posted INR 4,350 as loan repayment against a wrong account number. Issue was identified during system audit and correction entries have been passed."
+12345,"Teller forgot to obtain KYC verification documents before opening a new account. Compliance team reported the lapse, and the customer was asked to resubmit valid documents."
+12891,"Staff miscalculated fixed deposit maturity amount, leading to excess payout of INR 1,540. Customer has been notified and adjustment has been made."
+13208,Employee delayed processing of RTGS transaction of INR 4.5 lakh by one working day due to incorrect scheduling. The delay was reported by the client.
+13677,"Wrong debit of INR 7,200 to a corporate account due to clerical error. The funds were restored after escalation to operations manager."
+14112,"Associate incorrectly applied service charge on a senior citizen account, amounting to INR 1,200. Charges have been reversed after customer complaint."
+14753,"Staff entered cheque number incorrectly while clearing, causing cheque bounce notification to be sent erroneously. Issue was rectified and apology email sent to customer."
+15240,"Employee uploaded an outdated interest rate table in the system, leading to wrong loan EMI calculations for 3 accounts. Correction made and customers informed."
+`00000,"Banking operations were halted for 30 minutes due to server outage, affecting fund transfers and ATM withdrawals."
+`00000,"Core banking application experienced slow processing, causing delays in posting customer transactions for nearly 2 hours."
+`00000,"Power fluctuation in the data center led to temporary downtime of cheque clearing systems, delaying settlements."
+`00000,"SMS alert system failed for 3 hours, and customers did not receive debit and credit notifications."
+`00000,"Internet banking portal crashed during peak load, preventing customers from accessing accounts for 45 minutes."
+`00000,ATM network connectivity failure in one region caused withdrawal and balance inquiry issues for customers.
+`00000,"Internal batch jobs failed during end-of-day processing, requiring manual intervention to reconcile accounts."
+`00000,"Delay in UPI settlement due to gateway timeout, leading to pending status for multiple customer transactions."
+`00000,Technical glitch in credit card system applied late payment charges incorrectly on 120 accounts.
+`00000,Server patch update caused login failures in the mobile banking app for nearly 1 hour.
