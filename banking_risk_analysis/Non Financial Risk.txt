@@ -1,0 +1,6 @@
+Market Conduct Risk: Potential for loss or adverse impact due to the Bank engaging in inappropriate, negligent, or intentional market activity or behaviour that may impact the integrity of financial markets.
+Client Conduct Risk: Potential for loss or adverse impact due to the Bank not achieving fair outcomes for clients when providing products and services.
+Regulatory Conduct Risk: Potential for loss or adverse impact due to failure to adequately address and meet regulatory requirements and expectations in relation to a robust compliance risk culture.
+Non Financial Regulatory Reporting Risk: Potential for loss or adverse impact due to failure to comply with non financial regulatory reporting requirements by submitting inaccurate, incomplete, and/or untimely reports to the relevant regulatory authority (excluding tax reporting obligations)
+Conflict of Interest Risk: Potential for loss or adverse impact due to failure to identify and/or appropriately manage situations where the Bank, or persons associated with it, have competing interests (actual or perceived) and the serving of one interest may result in the detriment of another.
+Data Risk Risk: Potential for loss or adverse impact due to failures related to the sourcing, storage, transformation, traceability, quality and movement of the Bank's data.
